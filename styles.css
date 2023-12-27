@@ -9,6 +9,7 @@ h1 {
 img {
   justify-content: center;
   text-align: center;
+  flex: 1;
 }
 .menthol {
   font-family: "Biryani", sans-serif;
