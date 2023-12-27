@@ -5,6 +5,9 @@ h1 {
   background-color: #09494e;
   color: white;
 }
+.menthol {
+  color: #00ff90;
+}
 body {
   width: 900px;
   margin: auto;
