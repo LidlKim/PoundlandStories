@@ -23,8 +23,19 @@ body {
   background-color: #d0ddff;
   font-family: "Parisienne", cursive;
   font-size: 30px;
+}
+.wank:hover {
+  color: violet;
+}
+.wank {
+  color: teal;
+}
+.menthol {
   color: #00ff90;
 }
-.stories:hover {
+.menthol:hover {
+  color: violet;
+}
+.sausage:hover {
   color: violet;
 }
