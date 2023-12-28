@@ -26,6 +26,7 @@ h1 {
 body {
   width: 900px;
   margin: auto;
+  background-image: url(poundlandimage.png);
 }
 .stories {
   text-align: center;
