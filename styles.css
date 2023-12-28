@@ -30,8 +30,11 @@ body {
 .wank {
   color: teal;
 }
+.sausage {
+  color: #6941cb;
+}
 .menthol {
-  color: #00ff90;
+  color: #3bb8bb;
 }
 .menthol:hover {
   color: violet;
