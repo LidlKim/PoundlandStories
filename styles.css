@@ -26,8 +26,7 @@ h1 {
 body {
   width: 900px;
   margin: auto;
-  background-image: url(rose.jpeg);
-  opacity: 0.7;
+  background-image: url(rose.jpeg), url("poundlandimage.png");
 }
 .stories {
   text-align: center;
