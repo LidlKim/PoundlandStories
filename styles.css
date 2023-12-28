@@ -11,15 +11,7 @@ h1 {
   text-align: center;
   flex: 1;
 }
-.outside {
-  color: #3f53ba;
-}
-.menthol {
-  color: #00ff90;
-}
-.wank {
-  color: #5514b4;
-}
+
 body {
   width: 900px;
   margin: auto;
@@ -30,4 +22,6 @@ body {
   margin-bottom: 50px;
   background-color: #d0ddff;
   font-family: "Parisienne", cursive;
+  font-size: 50px;
+  color: #00ff90;
 }
