@@ -30,6 +30,18 @@ body {
 .IUD:hover {
   color: violet;
 }
+.alive {
+  color: #1143ff;
+}
+.alive:hover {
+  color: violet;
+}
+.outside {
+  color: #7f64e9;
+}
+.outside:hover {
+  color: violet;
+}
 .wank:hover {
   color: violet;
 }
