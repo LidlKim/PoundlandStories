@@ -42,3 +42,9 @@ body {
 .sausage:hover {
   color: violet;
 }
+.contact {
+  color: #ff1efb;
+}
+.contact:hover {
+  color: #819ada;
+}
