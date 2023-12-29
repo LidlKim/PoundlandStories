@@ -6,3 +6,10 @@ h1 {
   background-color: #7c500e;
   color: white;
 }
+body {
+  width: 900px;
+  margin: auto;
+}
+p {
+  text-align: center;
+}
