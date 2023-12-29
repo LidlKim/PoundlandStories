@@ -19,12 +19,15 @@ body {
 }
 .navbar-brand {
   font-family: "Parisienne", cursive;
+  font-size: 40px;
 }
 .nav-link {
   font-family: "Parisienne", cursive;
+  font-size: 27px;
 }
 .dropdown-item {
   font-family: "Parisienne", cursive;
+  font-size: 27px;
 }
 .stories {
   text-align: center;
