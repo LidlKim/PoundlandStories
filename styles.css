@@ -24,6 +24,12 @@ body {
   font-family: "Parisienne", cursive;
   font-size: 30px;
 }
+.IUD {
+  color: #433460;
+}
+.IUD:hover {
+  color: violet;
+}
 .wank:hover {
   color: violet;
 }
