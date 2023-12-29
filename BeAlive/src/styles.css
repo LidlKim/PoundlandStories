@@ -6,3 +6,10 @@ h1 {
   background-color: yellowgreen;
   color: aliceblue;
 }
+body {
+  width: 900px;
+  margin: auto;
+}
+p {
+  text-align: center;
+}
