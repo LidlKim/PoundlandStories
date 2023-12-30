@@ -13,7 +13,7 @@ h1 {
   flex: 1;
 }
 img {
-  text-align: center;
+  justify-content: center;
 }
 
 body {
@@ -29,6 +29,10 @@ body {
   font-size: 40px;
   color: #ff1efb;
 }
+.dropdown-menu {
+  position: absolute;
+}
+
 .nav-link {
   font-family: "Parisienne", cursive;
   font-size: 20px;
