@@ -34,3 +34,15 @@ h1 {
   font-size: 20px;
   color: #fda6fe;
 }
+@media (max-width: 600px) {
+  p {
+    text-align: left;
+    margin-bottom: 50px;
+    background-color: #d0ddff;
+    font-size: 15px;
+  }
+  h1 {
+    font-size: 30px;
+    text-align: left;
+  }
+}
