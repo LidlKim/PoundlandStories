@@ -34,6 +34,9 @@ h1 {
   font-size: 20px;
   color: #fda6fe;
 }
+img {
+  margin-bottom: 20px;
+}
 @media (max-width: 600px) {
   p {
     text-align: left;
