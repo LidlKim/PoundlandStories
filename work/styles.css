@@ -10,7 +10,7 @@ h1 {
 body {
   width: 900px;
   margin: auto;
-  background-image: url(rose.jpeg);
+  background-image: url(../rose.jpeg);
 }
 navbar {
   background-color: #4671c5;
@@ -34,4 +34,7 @@ navbar {
   font-family: "Parisienne", cursive;
   font-size: 20px;
   color: #fda6fe;
+}
+h2 {
+  background-color: thistle;
 }
