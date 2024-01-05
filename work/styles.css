@@ -22,7 +22,14 @@ navbar {
 .dropdown-menu {
   position: absolute;
 }
-
+.footy {
+  background-color: #09494e;
+  text-align: center;
+  padding: 20px;
+}
+.container {
+  max-width: 900px;
+}
 .nav-link {
   font-family: "Parisienne", cursive;
   font-size: 20px;
@@ -34,6 +41,10 @@ navbar {
   font-size: 20px;
   color: #fda6fe;
 }
-h2 {
-  background-color: thistle;
+.projects {
+  text-align: center;
+  margin-bottom: 50px;
+  background-color: #d0ddff;
+  font-family: "Parisienne", cursive;
+  font-size: 30px;
 }
