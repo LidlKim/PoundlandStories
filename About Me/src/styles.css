@@ -1,5 +1,4 @@
 body {
-  width: 900px;
   margin: auto;
 }
 h1 {
@@ -19,6 +18,14 @@ h2 {
   background-color: #09494e;
   color: white;
   font-size: 30px;
+}
+.footy {
+  background-color: #09494e;
+  text-align: center;
+  padding: 20px;
+}
+.container {
+  max-width: 900px;
 }
 .insta-link {
   font-size: 30px;
