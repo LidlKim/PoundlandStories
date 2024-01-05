@@ -98,8 +98,15 @@ body {
 }
 .footy {
   background-color: #09494e;
-  text-align: left;
+  text-align: center;
   padding: 20px;
+}
+.justify-content-center {
+  justify-content: center !important;
+}
+i {
+  color: white;
+  font: 50px;
 }
 @media (max-width: 600px) {
   .stories {
