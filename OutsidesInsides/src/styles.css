@@ -9,6 +9,8 @@ h1 {
 body {
   margin: auto;
   background-image: url(inside-outside.png);
+  background-size: 20%;
+  background-image: repeat;
 }
 p {
   text-align: center;
