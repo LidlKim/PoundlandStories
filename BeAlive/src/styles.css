@@ -8,6 +8,7 @@ h1 {
 }
 body {
   margin: auto;
+  background-image: url(be-alive-background.png);
 }
 p {
   text-align: center;
