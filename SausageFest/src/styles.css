@@ -8,6 +8,8 @@ h1 {
 }
 body {
   margin: auto;
+  background-image: url(sausage.png);
+  background-repeat: repeat-x;
 }
 p {
   text-align: center;
