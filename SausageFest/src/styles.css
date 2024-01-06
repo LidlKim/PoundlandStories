@@ -13,6 +13,8 @@ body {
 }
 p {
   text-align: center;
+  background-color: blanchedalmond;
+  color: #7c500e;
 }
 navbar {
   background-color: #4671c5;
