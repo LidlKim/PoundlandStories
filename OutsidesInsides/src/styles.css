@@ -8,6 +8,7 @@ h1 {
 }
 body {
   margin: auto;
+  background-image: url(insides-outsides.png);
 }
 p {
   text-align: center;
