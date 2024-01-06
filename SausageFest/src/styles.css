@@ -9,8 +9,8 @@ h1 {
 body {
   margin: auto;
   background-image: url(sausage.png);
-  background-repeat: repeat-x;
-  background-size: 30%;
+  background-repeat: repeat;
+  background-size: 20%;
 }
 p {
   text-align: center;
